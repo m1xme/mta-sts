@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
 mx: pixel.mxrouting.net
-mx: pixel-relay.mxrouting.net
 max_age: 86400
